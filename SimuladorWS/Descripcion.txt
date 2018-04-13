@@ -1,0 +1,4 @@
+Web Service desarrollado en lenguaje de programacion Java, tiene como función realizar una simulación de ahorro a plazo fijo, para lo cual calcula el importe total de ahorro, intereses, importe de abono/pago y su respectivo cronograma.
+
+Precisa de instalación en un servidor de aplicaciones.
+

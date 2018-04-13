@@ -1,0 +1,3 @@
+Cliente para consumir y testear el servicio SimuladorWS.
+
+Las clases/estructura de este componente fueron autogenerados por la herramienta SoapUI, directamente desde la Url del servicio SimuladorWS instalado y funcionando en servidor.
